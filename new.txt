@@ -3,4 +3,5 @@ what is tag ?
 types of tags 
 annoted tags
 comparision of tags 
-using difftool  
+using difftool 
+tagging with comment  
